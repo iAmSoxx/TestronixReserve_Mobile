@@ -1,16 +1,21 @@
-# tronixbook_project
+# TronixBook - Room Reservation App for Tablets
 
-A new Flutter project.
+TronixBook is a Flutter-based room reservation app specifically designed for tablets. This app allows users to browse available rooms, view detailed room information, and make reservations for specific dates and times.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User Authentication**: Login and registration functionality with JWT authentication.
+- **Room Search**: Search for rooms by name or location.
+- **Room Details**: View room details, location, and image.
+- **Reservation System**: 
+  - Select a room.
+  - Choose a date and time (with dynamic availability).
+  - Submit user details to confirm the reservation.
+- **State Management**: Managed using the Provider package.
+- **Local Storage**: User data stored locally using SharedPreferences.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
