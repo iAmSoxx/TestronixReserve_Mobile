@@ -3,9 +3,9 @@
 TronixBook is a Flutter-based room reservation app specifically designed for tablets. This app allows users to browse available rooms, view detailed room information, and make reservations for specific dates and times.
 <div align="center">
    <p>🖥️ 📱 <b>Dynamic Web and Tablet Experience</b>
-  <img src="/public/assets/WebAndTablet1.png" alt="Web UI Mockup" width="70%">
+  <img src="/assets/WebAndTablet1.png" alt="Web UI Mockup" width="70%">
 
-  <img src="/public/assets/WebAndTablet2.png" alt="Tablet UI Mockup" width="70%">
+  <img src="/assets/WebAndTablet2.png" alt="Tablet UI Mockup" width="70%">
 </div>
 ## Features
 
